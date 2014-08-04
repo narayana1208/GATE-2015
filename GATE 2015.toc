@@ -1,0 +1,224 @@
+\contentsline {part}{I\hspace {1em}Algorithms}{1}{part.1}
+\contentsline {chapter}{\numberline {1}Test}{2}{chapter.1}
+\contentsline {chapter}{\numberline {2}Complexity Analysis(Asymptotic Notations)}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}$\Theta $ Notation}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Big O Notation}{3}{section.2.2}
+\contentsline {section}{\numberline {2.3}$\Omega $ Notation}{3}{section.2.3}
+\contentsline {chapter}{\numberline {3}Solving Recurrences}{4}{chapter.3}
+\contentsline {section}{\numberline {3.1}Substitution Method}{4}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Example}{4}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Recurrence Tree Method}{4}{section.3.2}
+\contentsline {section}{\numberline {3.3}Master Method}{5}{section.3.3}
+\contentsline {chapter}{\numberline {4}Sorting}{6}{chapter.4}
+\contentsline {section}{\numberline {4.1}Insertion Sort \nobreakspace {}\ref {lst:ins_sort}}{6}{section.4.1}
+\contentsline {section}{\numberline {4.2}Bubble Sort \nobreakspace {}\ref {lst:bubble_sort}}{6}{section.4.2}
+\contentsline {section}{\numberline {4.3}Bucket Sort \nobreakspace {}\ref {lst:bucket_sort}}{6}{section.4.3}
+\contentsline {section}{\numberline {4.4}Heap Sort \nobreakspace {}\ref {lst:heap_sort}}{6}{section.4.4}
+\contentsline {section}{\numberline {4.5}Quick Sort \nobreakspace {}\ref {lst:quick_sort}}{6}{section.4.5}
+\contentsline {section}{\numberline {4.6}Merge Sort \nobreakspace {}\ref {lst:merge_sort}}{6}{section.4.6}
+\contentsline {section}{\numberline {4.7}Summary}{6}{section.4.7}
+\contentsline {chapter}{\numberline {5}Searching}{7}{chapter.5}
+\contentsline {section}{\numberline {5.1}Linear Search}{7}{section.5.1}
+\contentsline {section}{\numberline {5.2}Binary Search}{7}{section.5.2}
+\contentsline {section}{\numberline {5.3}Interpolation Search \cite {interpolsearch}}{7}{section.5.3}
+\contentsline {section}{\numberline {5.4}Summary}{7}{section.5.4}
+\contentsline {chapter}{\numberline {6}Divide \& Conquer}{8}{chapter.6}
+\contentsline {chapter}{\numberline {7}Greedy Algorithms}{9}{chapter.7}
+\contentsline {section}{\numberline {7.1}Introduction}{9}{section.7.1}
+\contentsline {section}{\numberline {7.2}Spanning Trees}{9}{section.7.2}
+\contentsline {subsubsection}{MST}{9}{section*.10}
+\contentsline {subsubsection}{Kruskal's MST Algorithm}{10}{section*.11}
+\contentsline {section}{\numberline {7.3}Activity Selection Problem}{10}{section.7.3}
+\contentsline {chapter}{\numberline {8}Dynamic Programming}{11}{chapter.8}
+\contentsline {section}{\numberline {8.1}Introduction}{11}{section.8.1}
+\contentsline {section}{\numberline {8.2}Fibonacci Numbers}{11}{section.8.2}
+\contentsline {section}{\numberline {8.3}Ugly Numbers}{11}{section.8.3}
+\contentsline {chapter}{\numberline {9}NP Classes}{12}{chapter.9}
+\contentsline {section}{\numberline {9.1}Introduction}{12}{section.9.1}
+\contentsline {section}{\numberline {9.2}Problem Definitions}{13}{section.9.2}
+\contentsline {part}{II\hspace {1em}Data Structures}{14}{part.2}
+\contentsline {chapter}{\numberline {10}Hashing}{15}{chapter.10}
+\contentsline {section}{\numberline {10.1}Introduction}{15}{section.10.1}
+\contentsline {section}{\numberline {10.2}ReHashing}{17}{section.10.2}
+\contentsline {part}{III\hspace {1em}Theory Of Computation}{18}{part.3}
+\contentsline {chapter}{\numberline {11}Finite Automaton}{20}{chapter.11}
+\contentsline {chapter}{\numberline {12}Undecidability}{21}{chapter.12}
+\contentsline {section}{\numberline {12.1}Definitions}{21}{section.12.1}
+\contentsline {chapter}{\numberline {13}Turing Machines}{22}{chapter.13}
+\contentsline {section}{\numberline {13.1}Notation}{22}{section.13.1}
+\contentsline {chapter}{\numberline {14}Regular Sets}{24}{chapter.14}
+\contentsline {section}{\numberline {14.1}Pumping Lemma}{24}{section.14.1}
+\contentsline {part}{IV\hspace {1em}Computer Organization \cite {patterson2013computer}}{25}{part.4}
+\contentsline {chapter}{\numberline {15}Machine Instructions \& Addressing Modes}{26}{chapter.15}
+\contentsline {section}{\numberline {15.1}Definitions}{26}{section.15.1}
+\contentsline {section}{\numberline {15.2}Design Principles}{27}{section.15.2}
+\contentsline {section}{\numberline {15.3}Machine Instructions \cite [p.67,90]{patterson2013computer}}{28}{section.15.3}
+\contentsline {chapter}{\numberline {16}Pipelining}{29}{chapter.16}
+\contentsline {section}{\numberline {16.1}Designing Instruction sets for pipelining}{29}{section.16.1}
+\contentsline {section}{\numberline {16.2}Pipeline Hazards}{30}{section.16.2}
+\contentsline {subsection}{\numberline {16.2.1}Structural Hazards}{30}{subsection.16.2.1}
+\contentsline {subsection}{\numberline {16.2.2}Data Hazards}{30}{subsection.16.2.2}
+\contentsline {subsubsection}{Solution}{30}{section*.17}
+\contentsline {subsection}{\numberline {16.2.3}Hazards}{30}{subsection.16.2.3}
+\contentsline {chapter}{\numberline {17}Arithmetic for Computers}{31}{chapter.17}
+\contentsline {section}{\numberline {17.1}Definitions}{31}{section.17.1}
+\contentsline {chapter}{\numberline {18}Speedup}{32}{chapter.18}
+\contentsline {part}{V\hspace {1em}First Order Logic}{33}{part.5}
+\contentsline {chapter}{\numberline {19}Propositional Logic}{34}{chapter.19}
+\contentsline {section}{\numberline {19.1}Introduction}{34}{section.19.1}
+\contentsline {section}{\numberline {19.2}Truth Table}{35}{section.19.2}
+\contentsline {section}{\numberline {19.3}Rules}{37}{section.19.3}
+\contentsline {section}{\numberline {19.4}Conditional Proof}{37}{section.19.4}
+\contentsline {section}{\numberline {19.5}Indirect Proof}{38}{section.19.5}
+\contentsline {chapter}{\numberline {20}Predicate Logic}{39}{chapter.20}
+\contentsline {section}{\numberline {20.1}Introduction}{39}{section.20.1}
+\contentsline {part}{VI\hspace {1em}Probability}{40}{part.6}
+\contentsline {chapter}{\numberline {21}Definitions}{42}{chapter.21}
+\contentsline {section}{\numberline {21.1}Definitions}{42}{section.21.1}
+\contentsline {chapter}{\numberline {22}Probability}{44}{chapter.22}
+\contentsline {section}{\numberline {22.1}Terms}{44}{section.22.1}
+\contentsline {section}{\numberline {22.2}Propositions}{44}{section.22.2}
+\contentsline {section}{\numberline {22.3}Conditional Probability}{44}{section.22.3}
+\contentsline {subsection}{\numberline {22.3.1}Bayes Formula}{45}{subsection.22.3.1}
+\contentsline {section}{\numberline {22.4}Mean, Median, Mode and Standard Deviation}{45}{section.22.4}
+\contentsline {section}{\numberline {22.5}Distributions}{47}{section.22.5}
+\contentsline {subsection}{\numberline {22.5.1}Bernoulli}{47}{subsection.22.5.1}
+\contentsline {subsection}{\numberline {22.5.2}HyperGeometric}{47}{subsection.22.5.2}
+\contentsline {subsection}{\numberline {22.5.3}Uniform}{47}{subsection.22.5.3}
+\contentsline {subsection}{\numberline {22.5.4}Normal}{47}{subsection.22.5.4}
+\contentsline {subsection}{\numberline {22.5.5}Exponential}{47}{subsection.22.5.5}
+\contentsline {subsection}{\numberline {22.5.6}Poisson}{47}{subsection.22.5.6}
+\contentsline {subsection}{\numberline {22.5.7}Binomial}{47}{subsection.22.5.7}
+\contentsline {subsection}{\numberline {22.5.8}Summary}{48}{subsection.22.5.8}
+\contentsline {part}{VII\hspace {1em}HTML}{51}{part.7}
+\contentsline {chapter}{\numberline {23}Basic Commands}{52}{chapter.23}
+\contentsline {section}{\numberline {23.1}Basics}{52}{section.23.1}
+\contentsline {section}{\numberline {23.2}Tags}{52}{section.23.2}
+\contentsline {section}{\numberline {23.3}Tags Reference}{53}{section.23.3}
+\contentsline {part}{VIII\hspace {1em}Numerical Analysis}{56}{part.8}
+\contentsline {chapter}{\numberline {24}Numerical solutions to non-algebraic linear equations}{57}{chapter.24}
+\contentsline {section}{\numberline {24.1}Bisection Method}{57}{section.24.1}
+\contentsline {section}{\numberline {24.2}Newton-Raphson Method}{58}{section.24.2}
+\contentsline {section}{\numberline {24.3}Secant Method}{58}{section.24.3}
+\contentsline {chapter}{\numberline {25}Numerical Integration}{59}{chapter.25}
+\contentsline {section}{\numberline {25.1}Introduction}{59}{section.25.1}
+\contentsline {section}{\numberline {25.2}Trapezoidal Rule}{59}{section.25.2}
+\contentsline {section}{\numberline {25.3}Simpson's 1/3 Rule}{60}{section.25.3}
+\contentsline {section}{\numberline {25.4}Simpson's 3/8 Rule}{60}{section.25.4}
+\contentsline {chapter}{\numberline {26}LU decomposition for system of linear equations}{61}{chapter.26}
+\contentsline {section}{\numberline {26.1}Introduction}{61}{section.26.1}
+\contentsline {section}{\numberline {26.2}Factorizing A as L and U}{61}{section.26.2}
+\contentsline {subsection}{\numberline {26.2.1}Example}{61}{subsection.26.2.1}
+\contentsline {section}{\numberline {26.3}Algorithm For solving}{62}{section.26.3}
+\contentsline {part}{IX\hspace {1em}XML}{63}{part.9}
+\contentsline {chapter}{\numberline {27}Basic Information}{64}{chapter.27}
+\contentsline {section}{\numberline {27.1}Basics}{64}{section.27.1}
+\contentsline {section}{\numberline {27.2}Rules for XML Docs}{65}{section.27.2}
+\contentsline {section}{\numberline {27.3}XML Elements}{65}{section.27.3}
+\contentsline {section}{\numberline {27.4}XML Attributes}{66}{section.27.4}
+\contentsline {part}{X\hspace {1em}Computer Networks}{67}{part.10}
+\contentsline {chapter}{\numberline {28}Network Security}{68}{chapter.28}
+\contentsline {subsection}{\numberline {28.0.1}Substitution Ciphers}{68}{subsection.28.0.1}
+\contentsline {section}{\numberline {28.1}Public Key Algorithms}{68}{section.28.1}
+\contentsline {subsection}{\numberline {28.1.1}Diffie-Hellman Key Exchange}{68}{subsection.28.1.1}
+\contentsline {subsection}{\numberline {28.1.2}RSA}{68}{subsection.28.1.2}
+\contentsline {subsection}{\numberline {28.1.3}Knapsack Algorithm}{69}{subsection.28.1.3}
+\contentsline {subsection}{\numberline {28.1.4}El Gamal Algorithm}{69}{subsection.28.1.4}
+\contentsline {section}{\numberline {28.2}Digital Signatures}{69}{section.28.2}
+\contentsline {subsection}{\numberline {28.2.1}Symmetric Key Signatures}{69}{subsection.28.2.1}
+\contentsline {subsection}{\numberline {28.2.2}Public Key Signatures}{69}{subsection.28.2.2}
+\contentsline {subsection}{\numberline {28.2.3}Message Digests}{70}{subsection.28.2.3}
+\contentsline {subsubsection}{SHA-1 \& SHA-2}{70}{section*.24}
+\contentsline {subsubsection}{MD5}{71}{section*.26}
+\contentsline {subsubsection}{Birthday Attack}{72}{section*.27}
+\contentsline {section}{\numberline {28.3}Communication Security}{72}{section.28.3}
+\contentsline {subsection}{\numberline {28.3.1}Firewalls}{72}{subsection.28.3.1}
+\contentsline {chapter}{\numberline {29}Application Layer}{74}{chapter.29}
+\contentsline {section}{\numberline {29.1}DNS - Domain Name System}{74}{section.29.1}
+\contentsline {subsection}{\numberline {29.1.1}Name Servers}{75}{subsection.29.1.1}
+\contentsline {section}{\numberline {29.2}HTTP - Hyper Text Transfer Protocol}{75}{section.29.2}
+\contentsline {chapter}{\numberline {30}Routing Algorithms}{77}{chapter.30}
+\contentsline {section}{\numberline {30.1}Introduction}{77}{section.30.1}
+\contentsline {section}{\numberline {30.2}Shortest Path Algorithm - Dijsktra}{78}{section.30.2}
+\contentsline {section}{\numberline {30.3}Flooding}{79}{section.30.3}
+\contentsline {section}{\numberline {30.4}Distance Vector Routing - Bellman Ford}{79}{section.30.4}
+\contentsline {section}{\numberline {30.5}Link State Routing}{80}{section.30.5}
+\contentsline {subsection}{\numberline {30.5.1}Learning abput neighbours}{80}{subsection.30.5.1}
+\contentsline {subsection}{\numberline {30.5.2}Setting Link Costs}{81}{subsection.30.5.2}
+\contentsline {subsection}{\numberline {30.5.3}Building Link State Packets}{81}{subsection.30.5.3}
+\contentsline {subsection}{\numberline {30.5.4}Distributing the Link State Packets}{81}{subsection.30.5.4}
+\contentsline {subsubsection}{Fundamental Idea}{81}{section*.34}
+\contentsline {subsubsection}{Problems}{81}{section*.35}
+\contentsline {subsection}{\numberline {30.5.5}Computing Shortest Path}{82}{subsection.30.5.5}
+\contentsline {section}{\numberline {30.6}Hierarchial Routing}{82}{section.30.6}
+\contentsline {section}{\numberline {30.7}Broadcast Routing}{83}{section.30.7}
+\contentsline {section}{\numberline {30.8}Multicast Routing}{84}{section.30.8}
+\contentsline {section}{\numberline {30.9}IPv4 - Network Layer}{84}{section.30.9}
+\contentsline {subsection}{\numberline {30.9.1}Communication in Internet}{84}{subsection.30.9.1}
+\contentsline {chapter}{\numberline {31}Error \& Flow control - Data Link Layer}{86}{chapter.31}
+\contentsline {section}{\numberline {31.1}Introduction}{86}{section.31.1}
+\contentsline {subsection}{\numberline {31.1.1}Byte Count}{86}{subsection.31.1.1}
+\contentsline {subsection}{\numberline {31.1.2}Byte Stuffing}{87}{subsection.31.1.2}
+\contentsline {subsection}{\numberline {31.1.3}Bit Stuffing}{88}{subsection.31.1.3}
+\contentsline {section}{\numberline {31.2}Error Correction \& Detection}{89}{section.31.2}
+\contentsline {subsection}{\numberline {31.2.1}Error Correcting Codes}{89}{subsection.31.2.1}
+\contentsline {subsubsection}{Hamming Codes}{89}{section*.45}
+\contentsline {subsubsection}{Convolution Codes}{90}{section*.47}
+\contentsline {subsubsection}{Reed Solomon Codes}{91}{section*.49}
+\contentsline {subsection}{\numberline {31.2.2}Error Detecting Codes}{91}{subsection.31.2.2}
+\contentsline {subsubsection}{Parity}{91}{section*.50}
+\contentsline {subsubsection}{Checksums}{92}{section*.52}
+\contentsline {subsubsection}{CRC(Cyclic Redundancy Check)}{92}{section*.54}
+\contentsline {section}{\numberline {31.3}Data Link Protocols}{93}{section.31.3}
+\contentsline {subsection}{\numberline {31.3.1}Simplex Protocol}{93}{subsection.31.3.1}
+\contentsline {subsection}{\numberline {31.3.2}Stop \& Wait Protocol for Error free}{93}{subsection.31.3.2}
+\contentsline {subsection}{\numberline {31.3.3}Stop \& Wait Protocol for Noisy Channel}{94}{subsection.31.3.3}
+\contentsline {subsection}{\numberline {31.3.4}Sliding Window Protocols}{94}{subsection.31.3.4}
+\contentsline {subsubsection}{1 bit Sliding Window Protocol}{94}{section*.58}
+\contentsline {subsubsection}{Go Back N}{95}{section*.60}
+\contentsline {subsubsection}{Selective Repeat}{96}{section*.62}
+\contentsline {chapter}{\numberline {32}Data Link Layer Switching}{98}{chapter.32}
+\contentsline {section}{\numberline {32.1}Bridges}{98}{section.32.1}
+\contentsline {subsection}{\numberline {32.1.1}Learning Bridges}{98}{subsection.32.1.1}
+\contentsline {subsection}{\numberline {32.1.2}Spanning Trees}{99}{subsection.32.1.2}
+\contentsline {chapter}{\numberline {33}Transport Layer}{101}{chapter.33}
+\contentsline {section}{\numberline {33.1}Introduction}{101}{section.33.1}
+\contentsline {chapter}{\numberline {34}Internet Protocol - IP}{102}{chapter.34}
+\contentsline {section}{\numberline {34.1}IPv4}{102}{section.34.1}
+\contentsline {chapter}{\numberline {35}Network Layer}{103}{chapter.35}
+\contentsline {section}{\numberline {35.1}Subnetting}{104}{section.35.1}
+\contentsline {section}{\numberline {35.2}Classless Addressing}{105}{section.35.2}
+\contentsline {chapter}{\numberline {36}Physical Layer}{106}{chapter.36}
+\contentsline {section}{\numberline {36.1}Introduction}{106}{section.36.1}
+\contentsline {part}{XI\hspace {1em}Calculus}{107}{part.11}
+\contentsline {chapter}{\numberline {37}Continuity}{108}{chapter.37}
+\contentsline {chapter}{\numberline {38}Differentiation}{109}{chapter.38}
+\contentsline {chapter}{\numberline {39}Integration}{110}{chapter.39}
+\contentsline {chapter}{\numberline {40}Definite Integrals \& Improper Integrals}{112}{chapter.40}
+\contentsline {part}{XII\hspace {1em}Linear Algebra}{113}{part.12}
+\contentsline {chapter}{\numberline {41}Determinants}{114}{chapter.41}
+\contentsline {section}{\numberline {41.1}Introduction}{114}{section.41.1}
+\contentsline {section}{\numberline {41.2}Properties}{114}{section.41.2}
+\contentsline {section}{\numberline {41.3}Determinants \& Eigenvalues}{115}{section.41.3}
+\contentsline {section}{\numberline {41.4}Eigenvectors \& Eigenvalues}{115}{section.41.4}
+\contentsline {section}{\numberline {41.5}Cramer's rule}{117}{section.41.5}
+\contentsline {section}{\numberline {41.6}Rank of a Matrix}{117}{section.41.6}
+\contentsline {section}{\numberline {41.7}System of Linear Equations}{117}{section.41.7}
+\contentsline {part}{XIII\hspace {1em}Set Theory \& Algebra}{119}{part.13}
+\contentsline {chapter}{\numberline {42}Sets}{120}{chapter.42}
+\contentsline {chapter}{\numberline {43}Relations}{121}{chapter.43}
+\contentsline {section}{\numberline {43.1}Properties}{122}{section.43.1}
+\contentsline {section}{\numberline {43.2}Other Properties Names}{122}{section.43.2}
+\contentsline {chapter}{\numberline {44}Functions}{123}{chapter.44}
+\contentsline {chapter}{\numberline {45}Group}{124}{chapter.45}
+\contentsline {chapter}{\numberline {46}Lattices}{125}{chapter.46}
+\contentsline {chapter}{\numberline {47}Partial Orders}{126}{chapter.47}
+\contentsline {part}{XIV\hspace {1em}Combinatory}{127}{part.14}
+\contentsline {chapter}{\numberline {48}Generating Functions}{128}{chapter.48}
+\contentsline {chapter}{\numberline {49}Recurrence Relations}{129}{chapter.49}
+\contentsline {part}{XV\hspace {1em}C Programs for Algorithms \nobreakspace {}\ref {part:Algorithms} \cite {algorithms}}{130}{part.15}
+\contentsline {chapter}{\numberline {50}Sorting}{131}{chapter.50}
+\contentsline {chapter}{\numberline {51}Spanning Trees}{149}{chapter.51}
+\contentsline {chapter}{\numberline {52}Dynamic Programming}{154}{chapter.52}
+\contentsline {part}{XVI\hspace {1em}C Programs for Testing}{169}{part.16}
+\contentsline {chapter}{Index}{174}{section*.75}

@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{interpolsearch}
+Interpolation search.
+\newblock \url{http://en.wikipedia.org/wiki/Interpolation_search}.
+
+\bibitem{ullman1979introduction}
+Jeffrey~D Ullman.
+\newblock Introduction to automata theory, languages, and computation.
+\newblock {\em Addison Wesley Publishing Company, USA., ISBN}, 10:020102988X,
+  1979.
+
+\bibitem{patterson2013computer}
+David~A Patterson and John~L Hennessy.
+\newblock {\em Computer organization and design: the hardware/software
+  interface}.
+\newblock Newnes, 2013.
+
+\bibitem{selectiveRepeat}
+Fundamentals of algorithms.
+\newblock \url{http://webmuseum.mi.fh-offenburg.de/index.php?view=exh&src=73}.
+
+\bibitem{srgobackn}
+Selective repeat & go back n.
+\newblock \url{http://www.ccs-labs.org/teaching/rn/animations/gbn_sr/}.
+
+\bibitem{algorithms}
+Fundamentals of algorithms.
+\newblock \url{http://www.geeksforgeeks.org/fundamentals-of-algorithms/}.
+
+\end{thebibliography}

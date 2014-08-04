@@ -1,0 +1,84 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Master Theorem\relax }}{5}{figure.caption.7}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {13.1}{\ignorespaces Turing machine accepting $0^n1^n \text { for } n \ge 1$\relax }}{23}{figure.caption.15}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {28.1}{\ignorespaces Digital Signatures using public key \relax }}{69}{figure.caption.23}
+\contentsline {figure}{\numberline {28.2}{\ignorespaces SHA-1 algorithm from Alice to Bob\relax }}{70}{figure.caption.25}
+\contentsline {figure}{\numberline {28.3}{\ignorespaces Firewall Protecting internal network\relax }}{72}{figure.caption.28}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {29.1}{\ignorespaces A portion of the Internet domain name space\relax }}{74}{figure.29.1}
+\contentsline {figure}{\numberline {29.2}{\ignorespaces Domain Name Space mapped to zones\relax }}{74}{figure.29.2}
+\contentsline {figure}{\numberline {29.3}{\ignorespaces DNS Resource Records Types\relax }}{75}{figure.caption.29}
+\contentsline {figure}{\numberline {29.4}{\ignorespaces HTTP 1.1 with (a) multiple connections and sequential requests. (b)A persistent connection and sequential requests. (c) A persistent connection and pipelined requests. \relax }}{76}{figure.caption.30}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {30.1}{\ignorespaces Sample run of Dijsktra's Algorithm\relax }}{78}{figure.caption.31}
+\contentsline {figure}{\numberline {30.2}{\ignorespaces Sample run of Bellman Ford's Algorithm\relax }}{80}{figure.caption.32}
+\contentsline {figure}{\numberline {30.3}{\ignorespaces Link Sate Packets\relax }}{81}{figure.caption.33}
+\contentsline {figure}{\numberline {30.4}{\ignorespaces Packet Buffer for Router B\relax }}{82}{figure.caption.36}
+\contentsline {figure}{\numberline {30.5}{\ignorespaces Hierarchial Routing\relax }}{83}{figure.caption.38}
+\contentsline {figure}{\numberline {30.6}{\ignorespaces IPv4 Header\relax }}{85}{figure.caption.40}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {31.1}{\ignorespaces Byte Count (a) Without errors. (b) With one error.\relax }}{87}{figure.caption.41}
+\contentsline {figure}{\numberline {31.2}{\ignorespaces Byte Stuffing (a) A frame delimited by flag bytes. (b) Four examples of byte sequences before and after byte stuffing.\relax }}{88}{figure.caption.42}
+\contentsline {figure}{\numberline {31.3}{\ignorespaces Bit Stuffing (a) The original data. (b) The data as they appear on the line. (c) The data as they are stored in the receiver's memory after destuffing.\relax }}{89}{figure.caption.44}
+\contentsline {figure}{\numberline {31.4}{\ignorespaces Hamming Codes for (11, 7) for even parity\relax }}{90}{figure.caption.46}
+\contentsline {figure}{\numberline {31.5}{\ignorespaces Convolution Codes\relax }}{91}{figure.caption.48}
+\contentsline {figure}{\numberline {31.6}{\ignorespaces Interleaving parity\relax }}{92}{figure.caption.51}
+\contentsline {figure}{\numberline {31.7}{\ignorespaces Calculating CRC\relax }}{93}{figure.caption.56}
+\contentsline {figure}{\numberline {31.8}{\ignorespaces A sliding window of size 1, with a 3-bit sequence number. (a) Initially. (b) After the first frame has been sent. (c) After the first frame has been received. (d) After the first acknowledgement has been received.\relax }}{94}{figure.caption.57}
+\contentsline {figure}{\numberline {31.9}{\ignorespaces (a) Normal case. (b) Abnormal case. The notation is (seq, ack, packet number). An asterisk indicates where a network layer accepts a packet.\relax }}{95}{figure.caption.59}
+\contentsline {figure}{\numberline {31.10}{\ignorespaces Pipelining and error recovery. Effect of an error when (a) receiver's window size is 1(Go Back n) and (b) receiver's window size is large(Selective Repeat).\relax }}{96}{figure.caption.61}
+\contentsline {figure}{\numberline {31.11}{\ignorespaces (a) Initial situation with a window of size 7. (b) After 7 frames have been sent and received but not acknowledged. (c) Initial situation with a window size of 4. (d) After 4 frames have been sent and received but not acknowledged.\relax }}{97}{figure.caption.64}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {32.1}{\ignorespaces a) Bridge connecting two multidrop LANs. (b) Bridges (and a hub) connecting seven point-to-point stations.\relax }}{98}{figure.caption.65}
+\contentsline {figure}{\numberline {32.2}{\ignorespaces Bridges with two parallel links.\relax }}{99}{figure.caption.66}
+\contentsline {figure}{\numberline {32.3}{\ignorespaces (a) Which device is in which layer. (b) Frames, packets, and headers.\relax }}{100}{figure.caption.67}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {33.1}{\ignorespaces The primitives of Transport Layer.\relax }}{101}{figure.caption.68}
+\contentsline {figure}{\numberline {33.2}{\ignorespaces The primitives of TCP socket.\relax }}{101}{figure.caption.69}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {34.1}{\ignorespaces IPv4 Header\relax }}{102}{figure.caption.70}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

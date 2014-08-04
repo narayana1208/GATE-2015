@@ -1,0 +1,13 @@
+\contentsline {todo}{Is the size of register = word size always? \textbf {Interesting Point}:The word size of an Architecture is often (but not always!) defined by the Size of the General Purpose Registers.}{26}{section*.16}
+\contentsline {todo}{Check for theorem's name}{58}{section*.20}
+\contentsline {todo}{Check for Newton's forward difference polynomial formula}{59}{section*.21}
+\contentsline {todo}{Check the formula for Error of Simpson's 3/8 rule}{60}{section*.22}
+\contentsline {todo}{Use a 32-bit sequence number. With one link state packet per second, it would take 137 years to wrap around. Time = $\genfrac {}{}{}0{2^{\text {no. of bits}}}{BW }$. Here BW = 1lsp/sec. no. of bits = 32}{82}{section*.37}
+\contentsline {todo}{did not understand}{83}{section*.39}
+\contentsline {todo}{Suppose 111110 is in data, does receiver destuff that leading to wrong information (in Bit Stuffing)?}{88}{section*.43}
+\contentsline {todo}{How to calculate and detect errors in checksum?}{92}{section*.53}
+\contentsline {todo}{How are error detected in CRC?}{92}{section*.55}
+\contentsline {todo}{Please understand seletive repeat}{96}{section*.63}
+\contentsline {todo}{Check about net mask}{103}{section*.71}
+\contentsline {todo}{Learn about \textbf {DHCP}}{104}{section*.72}
+\contentsline {todo}{Check this part for $m, n$ comaprison condition for no, infintely many solutions. Also for $m = n$.}{118}{section*.73}
